@@ -1,5 +1,5 @@
 {
-  "name": "create-node-backend",
+  "name": "create-node-backend-template",
   "version": "1.0.0",
   "description": "A CLI tool to scaffold a Node.js backend project",
   "main": "bin/create-node-backend.js",
