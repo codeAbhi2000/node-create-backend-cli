@@ -20,7 +20,7 @@ A CLI tool to scaffold Node.js backend projects with options for JavaScript or T
 Install the CLI globally:
 
 ```bash
-npm install -g create-node-backend
+npm install -g create-node-backend-template
 ```
 
 ## Usage
